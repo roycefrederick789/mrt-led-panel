@@ -1,2 +1,2 @@
-# mrt-led-panel
-This project used a shift register to control the simplified MRT LED panel
+# MRT LED Panel
+This project used a shift register to control the simplified MRT LED panel, inspired by the MRT LED panel inside the Singapore MRT. As part of applying what I learned in Digital Electronics, this project controls the LEDs using a shift register chip SN74HC595N, a chip I have in my component kits. As shift register is used, there are no computer programs needed to control the light which makes it purely hardware project. The main component needed is the shift register SN74HC595N.
