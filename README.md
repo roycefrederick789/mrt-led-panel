@@ -25,3 +25,10 @@ In SN74HC595N, the following pins are set:
 -	The RCLK pin is used to move the data from the register to the output pins upon receiving a rising edge signal. Another button (ON2) is used to provide a rising edge signal.
 -	The SRCLR (active-low) is a reset pin and by default is set to a HIGH state. Setting the reset pin to a LOW state sets all the data in the register to LOW states. Then, upon clicking the ON2 button, all data from the register (LOW states) is moved to the output pins, and all output pins become LOW.
 -	The remaining pins: VCC is connected to the 5 V source, GND is connected to ground, and OE (active-low) is set to a LOW state to activate the output pins. 
+
+## Project Images
+Front View
+![Front View](https://github.com/roycefrederick789/mrt-led-panel/blob/main/front_view_mrt_panel.jpg)
+
+Top View (Breadboard Circuit)
+![Top View](https://github.com/roycefrederick789/mrt-led-panel/blob/main/top_view_mrt_panel.jpg)
