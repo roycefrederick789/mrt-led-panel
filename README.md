@@ -3,6 +3,10 @@ This project used a shift register to control the simplified MRT LED panel, insp
 
 ## Demo Video
 
+
+https://github.com/user-attachments/assets/d509c4c7-96b2-4ac7-a817-4ed0a8f62484
+
+
 The ON LEDs represent the MRT stops that the train has yet to pass. The OFF LEDs mean the MRT has reached/passed the stations.
 
 ## How does it work?
